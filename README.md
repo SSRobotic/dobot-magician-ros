@@ -1,24 +1,38 @@
-# DOBOT Magician ROS · SSRobotic Collection
+<p align="center"><img src="assets/ssrobotics-logo.jpg" alt="SSRobotics original logo" width="240"></p>
 
-> **This collection has moved into [Humanoid Robot Hub](https://github.com/SSRobotic/humanoid-robot-hub).**
-> Browse the consolidated code: [collections/dobot/magician-ros](https://github.com/SSRobotic/humanoid-robot-hub/tree/main/collections/dobot/magician-ros) · [Search resources](https://ssrobotic.github.io/humanoid-robot-hub/)
+# 🤏 DOBOT Magician ROS · SSRobotics
 
-Legacy desktop arm ROS demo; supporting manipulation resource, not a humanoid stack.
+**Part of [Humanoid Robot Hub](https://github.com/SSRobotic/humanoid-robot-hub)** · [🔎 Search the ecosystem](https://ssrobotic.github.io/humanoid-robot-hub/) · [👤 Follow SSRobotic](https://github.com/SSRobotic)
 
-Curated and organized by **SSRobotic — Robotics Engineer & Open-source Curator**. Original source: [Dobot-Arm](https://github.com/Dobot-Arm/Magician_ROS). The original code, documentation and license notices retain their respective authorship.
+Legacy ROS demo for the DOBOT Magician desktop arm.
 
-## What this collection provides
+Curated and organized by **SSRobotic — Robotics Engineer & Open-source Curator**. Original platform code and documentation remain credited to [Dobot-Arm](https://github.com/Dobot-Arm/Magician_ROS).
 
-Legacy desktop arm ROS demo; supporting manipulation resource, not a humanoid stack.
+## 🛠️ What is inside
 
-The Hub contains a snapshot of this repository at `c7d30a7cbd8c8fd59eb6afd1031a398e1d44932f`. This repository is retained as an archived reference so previous links and history remain available. Updates to the curated collection belong in the Hub.
+This repository contains the existing DOBOT Magician ROS source collection, together with its original history and notices. The [original documentation](UPSTREAM_README.md) describes installation, examples and dependencies. Use the documented robot generation and software versions.
 
----
+## 🚀 Start here
 
-## Original documentation
+1. Read [UPSTREAM_README.md](UPSTREAM_README.md) and inspect the source tree.
+2. Check hardware compatibility, middleware and the dependency versions documented by the original project.
+3. Build in the project-specific workspace. This collection has its own setup; the Hub provides navigation and discovery.
 
-# <center>Magician Robot</center>
+## 🔗 Connected directories
 
-Chinese version of the README -> please [click here](./README-CN.md)
+[🦾 Models](https://github.com/SSRobotic/humanoid-models) · [🌐 Simulation](https://github.com/SSRobotic/humanoid-simulation) · [🔌 SDKs](https://github.com/SSRobotic/humanoid-hardware-sdks) · [📡 ROS](https://github.com/SSRobotic/humanoid-ros2) · [👁️ Vision](https://github.com/SSRobotic/humanoid-vision) · [🤏 Manipulation](https://github.com/SSRobotic/humanoid-manipulation)
 
-Dobot Magician uses ROS-controlled Demo under Linux system. This Demo does not depend on serial, and automatically adapts to x86 and x64. This demo uses ubuntu16.04 X64 system, and ROS version of ROS Kinetic Kame
+[🏠 Main Hub](https://github.com/SSRobotic/humanoid-robot-hub) · [🗂️ All repositories](https://github.com/SSRobotic?tab=repositories) · [💡 Suggest a resource](https://github.com/SSRobotic/humanoid-robot-hub/issues/new/choose)
+
+## 📚 Source & attribution
+
+- Original source: [https://github.com/Dobot-Arm/Magician_ROS](https://github.com/Dobot-Arm/Magician_ROS).
+- Consolidated source snapshot: `c7d30a7cbd8c8fd59eb6afd1031a398e1d44932f`.
+- Historical snapshot in the Hub: [collections/dobot/magician-ros](https://github.com/SSRobotic/humanoid-robot-hub/tree/main/collections/dobot/magician-ros).
+- Current collection: [SSRobotic/dobot-magician-ros](https://github.com/SSRobotic/dobot-magician-ros).
+
+Existing license files and copyright notices are retained. Original SDKs, models, third-party libraries and binaries keep their respective license terms. The SSRobotics logo is supplied by its creator.
+
+## 🙌 Follow the collection
+
+If this resource helps your work, follow [SSRobotic](https://github.com/SSRobotic) for future robotics resources and [star the main Hub](https://github.com/SSRobotic/humanoid-robot-hub) to bookmark the ecosystem.
